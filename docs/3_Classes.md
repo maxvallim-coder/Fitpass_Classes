@@ -8,6 +8,12 @@ RF01, RF04, RF05, RF06, RF10
 - endereco
 - rfid
 - status
+- contratarPlano()
+- agendarAula()
+- cancelarAgendamento()
+- atualizarStatus()
+- registrarAcesso()
+- receberNotificacao()
 
 ***Plano***
 RF01, RF02, RF04
